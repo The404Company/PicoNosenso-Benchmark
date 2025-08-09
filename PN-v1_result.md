@@ -1,7 +1,3 @@
-# PicoNosenso-Benchmark
-A Benchmark to test our PicoNosenso-series models on various trivia questions.
-
-
 # FINAL BENCHMARK REPORT [PicoNosenso-v1](https://huggingface.co/Lominub44/PicoNosenso-v1)
 
 Benchmark for 10 (`0.1` to `1.0`) temperatures with 5 runs each.
