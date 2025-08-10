@@ -5,3 +5,6 @@ A Benchmark to test our [PicoNosenso-series](https://huggingface.co/collections/
 - [PicoNosenso-v1](PicoNosenso-v1_results.md)
 - [PicoNosensoX-v1](PicoNosensoX-v1_results.md)
 - [PicoNosensoX-v1.1](PicoNosensoX-v1.1_results.md)
+
+# Charts
+![PiconosensoX-v1 vs. PicoNosensoX-v1.1](img/Figure_1.png)
