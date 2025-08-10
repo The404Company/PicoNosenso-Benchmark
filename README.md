@@ -8,4 +8,4 @@ A Benchmark to test our [PicoNosenso-series](https://huggingface.co/collections/
 
 # Charts
 ![PiconosensoX-v1 vs. PicoNosensoX-v1.1](img/Figure_1.png)
-<sup>Note: it is still reccomended to use the temperatures `0.6` or `0.7`</sup>
+<sup>Note: it is still recommended to use the temperatures `0.6` or `0.7`</sup>
